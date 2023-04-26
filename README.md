@@ -3,6 +3,7 @@
 ### A little about myself
 
 Front-End Developer with 3 years of experience who enjoys working on complex tasks, finding the best solution for business requirements and transitioning ideas into real life projects. I am passionate about learning and developing new skills and applying existing ones on projects. Deliver modern interfaces with best practices to create and maintain better code base for performance and reusability. Facilitated projects from concept to launch. Eager to tackle more complex problems and continue to find ways to maximize user efficiency.
+(Most repositories are private)
 
 ### Languages and Tools
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-282C34?style=for-the-badge&logo=javascript)
