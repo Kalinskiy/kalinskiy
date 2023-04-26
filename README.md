@@ -2,10 +2,7 @@
 
 ### A little about myself
 
-Hello everyone!<br/>  My name is Alex, and I am front-end developer.<br/>
-Interesting and complicated tasks are my passion because it gives me the way to learn and understand new things.<br/>
-If you have any interesting project, feel free to contact me by links below.<br/>
-Thank you! 
+Front-End Developer with 3 years of experience who enjoys working on complex tasks, finding the best solution for business requirements and transitioning ideas into real life projects. I am passionate about learning and developing new skills and applying existing ones on projects. Deliver modern interfaces with best practices to create and maintain better code base for performance and reusability. Facilitated projects from concept to launch. Eager to tackle more complex problems and continue to find ways to maximize user efficiency.
 
 ### Languages and Tools
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-282C34?style=for-the-badge&logo=javascript)
@@ -16,8 +13,7 @@ Thank you!
 ![MATERIAL.UI](https://img.shields.io/badge/-MATERIAL.UI-282C34?style=for-the-badge&logo=material-ui)
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-282C34?style=for-the-badge&logo=firebase)
 
-### Portfolio
-[![PORTFOLIO](https://img.shields.io/static/v1?label=PORTFOLIO&message=click&color=282C34)](https://kalinskiy.github.io/portfolio/)
+
 ### Contact me
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-282C34?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksandr-kalinskiy-3a43b31bb/)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-282C34?style=for-the-badge&logo=telegram)](https://t.me/kalinskiyqq)
